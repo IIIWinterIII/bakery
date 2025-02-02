@@ -2,19 +2,19 @@
  
  <img src="images/screenshot.jpg" alt="project">
 
-Bakery is a mobile first, clean and responsive template built for a bakery.
+Bakery is a stylish and responsive bakery template, designed with an emphasis on mobile devices.
 
-Built using HTML, CSS and Javascript.
+The project was created using HTML, CSS and JavaScript.
 
-Scroll Reveal, a Javascript library that reveal elements when a user scroll into them is also used in the project.
+To animate elements when scrolling, the Scroll Reveal library is used, adding the effect of smooth content appearance.
 
-All the images were gotten from Unsplash and Pexels.
+All images are taken from open photo stocks.
 
-The project contains three pages which are:
+The template contains three pages:
 
-1. The Homepage
+1. Home – introduces visitors to the range of baked goods.
 
-2. About Page - This contains few details about the bakery.
+2. About us – brief information about the bakery and its history.
 
-3. Bakers - This page contains a gallery of the bakers.
+3. Team – a gallery of masters who create delicious baked goods.
 
